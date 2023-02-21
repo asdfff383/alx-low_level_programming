@@ -2,7 +2,7 @@
 
 /**
  * _isalpha - Check for alphabetric charcter
- * gc: The chsrcter to be reached
+ * @c: The chsrcter to be reached
  * Return: 1 for alphabetric character or 0 for anything else
  */
 
