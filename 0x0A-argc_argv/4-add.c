@@ -5,6 +5,7 @@
 	/**
 	 * check_num - check - string there are digit
 	 * @str: array str
+	 * check_num - good lkhgj
 	 *
 	 * Return: Always 0 (Success)
 	 */
@@ -32,7 +33,9 @@
 
 
 	/**
+	 * main - print the name
 	 * main - Print the name of the program
+	 * main -  aza
 	 * @argc: Count arguments
 	 * @argv: Arguments
 	 *
